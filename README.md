@@ -1,6 +1,6 @@
 # DevcampViewTool
 
-> TODO: Write a short summary, because Rubygems requires one.
+> Various view specific methods for application I use.
 
 ## Installation
 
